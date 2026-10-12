@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+*.xmp.bkp
+/previews/
+/render/
+
+# vendor packages for research, never commit
+/LRTimelapse*/
+*.exe
+*.jar
+*.url
+/research/
+/target/
+
+/notes/
+
