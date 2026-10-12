@@ -14,7 +14,9 @@ Rules
 - Public tree stays a normal open-source project: README, code, licence. No
   logs or audit detail here.
 
-Maintainer context lives in the private repo `glidelapse-notes` (same owner):
+Day-to-day development happens in the private repo `glidelapse-dev` (remote
+`dev`); this public repo receives polished states only. Maintainer context lives
+in the private repo `glidelapse-notes` (same owner):
 `HANDOFF.md` first, then `LOG.md` "Next steps", then `CLAUDE-full.md`. If it is
 checked out locally it sits at `notes/` (git-ignored).
 
